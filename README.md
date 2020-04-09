@@ -1,0 +1,2 @@
+# Inferential-Statistics
+Frequentist Stats
