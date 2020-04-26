@@ -1,4 +1,4 @@
-# Inferential-Statistics
+# Inferential-Statistics 1-a
 Frequentist Stats
 Inferential Statistics Ia - Frequentism
 Learning objectives
